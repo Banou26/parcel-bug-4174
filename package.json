@@ -1,0 +1,12 @@
+{
+  "name": "parcel-raw-transform",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.116"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html"
+  }
+}
